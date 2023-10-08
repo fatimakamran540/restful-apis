@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(253, 217, 222);
+}
+
+h1{
+  color: teal;
+}
+
+.post{
+ background-color: rgb(240, 163, 175);
+ margin: 20px 40px;
+ padding: 8px 4px;
+ text-align:center;
+ color: teal;
+}
+.user{
+  font-style: italic;
+}
+a{
+  color: black; 
+  text-align: left;
+  margin-left: 35px;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer;
+  transition: 0.3s;
+  
+}
+a:hover{
+  color: teal;
+  font-size: 35px;
+
+}
+button{
+  background-color: teal;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+  
+}
+button:hover{
+  font-size: 25px;
+  
+}
